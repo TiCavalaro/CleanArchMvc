@@ -1,0 +1,15 @@
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.deps.json
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.dll
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArc.BBB464D1.Up2Date
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.dll
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\refint\CleanArchMvc.Infra.Data.dll
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net8.0\ref\CleanArchMvc.Infra.Data.dll

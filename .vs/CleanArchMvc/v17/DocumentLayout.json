@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\ticav\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\ticav\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD275145-8DE7-4D12-853C-3A0F1AF1B1F5}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|c:\\users\\ticav\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD275145-8DE7-4D12-853C-3A0F1AF1B1F5}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD275145-8DE7-4D12-853C-3A0F1AF1B1F5}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|c:\\users\\ticav\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain.tests\\productunitytest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD275145-8DE7-4D12-853C-3A0F1AF1B1F5}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\productunitytest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\ticav\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\ticav\\source\\repos\\cleanarchmvc\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3134A6A1-1A8D-44AB-B4BB-D30F4A40F848}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:31:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:02:46.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductUnityTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnityTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\ProductUnityTest1.cs",
+              "ToolTip": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnityTest1.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\ProductUnityTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:53:03.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainExceptionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ToolTip": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:38:23.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:59:55.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryUnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "ToolTip": "C:\\Users\\ticav\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:58:58.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

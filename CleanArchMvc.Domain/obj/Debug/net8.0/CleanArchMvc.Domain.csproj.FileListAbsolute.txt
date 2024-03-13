@@ -1,0 +1,11 @@
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.deps.json
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\refint\CleanArchMvc.Domain.dll
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\ref\CleanArchMvc.Domain.dll
