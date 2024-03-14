@@ -12,6 +12,7 @@ C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArchMvc.Infra.Ioc.AssemblyInfoInputs.cache
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArchMvc.Infra.Ioc.AssemblyInfo.cs
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArchMvc.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArchMvc.Infra.Ioc.sourcelink.json
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArc.43F92FFD.Up2Date
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\CleanArchMvc.Infra.Ioc.dll
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Infra.Ioc\obj\Debug\net8.0\refint\CleanArchMvc.Infra.Ioc.dll

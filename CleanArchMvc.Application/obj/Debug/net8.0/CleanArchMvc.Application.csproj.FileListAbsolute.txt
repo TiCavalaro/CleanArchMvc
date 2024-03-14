@@ -8,6 +8,7 @@ C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfo.cs
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.sourcelink.json
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArc.49502176.Up2Date
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.dll
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\refint\CleanArchMvc.Application.dll

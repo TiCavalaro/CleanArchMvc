@@ -98,6 +98,7 @@ C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.AssemblyInfoInputs.cache
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.AssemblyInfo.cs
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.sourcelink.json
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArc.9174D291.Up2Date
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\CleanArchMvc.Domain.Tests.dll
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.Domain.Tests\obj\Debug\net8.0\refint\CleanArchMvc.Domain.Tests.dll

@@ -22,6 +22,7 @@ C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\Cle
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cache
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.RazorAssemblyInfo.cs
+C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\CleanArchMvc.WebUI.sourcelink.json
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ticav\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net8.0\staticwebassets\msbuild.CleanArchMvc.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
